@@ -7,7 +7,7 @@
 
 <img align="right" alt="abc" width="500" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
 
-- 🔭 I’m currently working on [ Real Time DevOps Projects](https://github.com/apena001/Continuous-Integration-Using-Jenkins-Nexus-Sonarqube-and-Slack-Project)
+- 🔭 I’m currently working on [ Advance DevOps Projects](https://github.com/apena001/Continuous-Integration-Using-Jenkins-Nexus-Sonarqube-and-Slack-Project)
 
 - 🌱 I’m currently learning Advance DevOps & Cloud DevOps**
 
