@@ -2,14 +2,14 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Lanre Sofela</h1>
 
-<h4 align="center">A passionate DevOps Engineer based in United Kingdom. I work in Corporate IT Sector and in my free time I get my hands dirty with new DevOps Tools</h4>
+<h4 align="center">A passionate DevOps Engineer/Security Engineer based in United Kingdom. I work in Corporate IT Sector and in my free time I get my hands dirty with new DevOps Tools</h4>
 
 
 <img align="right" alt="abc" width="500" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
 
 - 🔭 I’m currently working on [ Advance DevOps Projects](https://github.com/apena001/Continuous-Integration-Using-Jenkins-Nexus-Sonarqube-and-Slack-Project)
 
-- 🌱 I’m currently learning Advance DevOps & Cloud DevOps**
+- 🌱 I’m currently learning Advance DevOps,Security Solution & Cloud Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/apena001]
 
